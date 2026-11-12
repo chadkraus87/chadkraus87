@@ -29,6 +29,7 @@ Outside work, I'm usually tinkering with my home lab or building something new w
 ## Writing
 
 - [Postmortem: DNS resolution failure](https://github.com/chadkraus87/techops-command-center/blob/main/docs/postmortem-dns-resolution-failure.md). A write-up of a simulated outage in TechOps, the way I'd write one at work: impact, timeline, what I ruled out, root cause, fix and prevention.
+- [Escalation: payment provider outage](https://github.com/chadkraus87/techops-command-center/blob/main/docs/escalation-payment-provider-outage.md). A Tier 2 escalation to Engineering from a simulated outage in TechOps: the ask, customer impact, how to reproduce, evidence, what I ruled out, and the holding reply to customers.
 
 ## What I work with
 
