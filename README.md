@@ -21,8 +21,8 @@ Outside work, I'm usually tinkering with my home lab or building something new w
 
 | Project | What it is | Try it |
 | --- | --- | --- |
-| [Switchboard](https://github.com/chadkraus87/switchboard) | AI support-ticket triage agent with an evaluation suite. The model proposes and a rules engine decides; on 30 held-out tickets it caught every escalation. | [Live demo](https://switchboard-triage.vercel.app) |
 | [TechOps Command Center](https://github.com/chadkraus87/techops-command-center) | Incident-response simulator. Trigger an outage, work it through logs, metrics, topology and network tools, then diagnose and fix it. | [Live demo](https://techops-command-center.vercel.app/) |
+| [Switchboard](https://github.com/chadkraus87/switchboard) | AI support-ticket triage agent. The model proposes, a rules engine decides, and every reply cites only the help-center articles it retrieved. | [Live demo](https://switchboard-triage.vercel.app) |
 | [HomeLab Commander](https://github.com/chadkraus87/home-lab-commander) | Local-first command center for discovering, monitoring and documenting a homelab, with a safe hosted demo. | [Live demo](https://home-lab-commander.vercel.app) |
 | [Stack City](https://github.com/chadkraus87/stack-city) | Browser strategy game for learning systems architecture by building and running a city of services. | [Play](https://stack-city-eight.vercel.app) |
 | [Lavi](https://github.com/chadkraus87/lavi) | A desktop robot for Claude Code sessions: next-step advice, a pre-commit secret check, and phone pings. | macOS app |
